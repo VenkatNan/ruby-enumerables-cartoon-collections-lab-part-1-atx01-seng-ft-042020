@@ -6,7 +6,7 @@ end
 
 def list_dwarves(array)
  array.each_with_index do |arr,idx|
-   idx ++
+   idx +=1
    puts "#{inx}. #{array}
  end
 end
