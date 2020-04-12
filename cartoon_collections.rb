@@ -1,5 +1,5 @@
 def greet_characters(array)
-  array.each
+  array.each do|array|
 end
 
 def list_dwarves(array)
