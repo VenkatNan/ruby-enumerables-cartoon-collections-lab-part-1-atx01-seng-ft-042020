@@ -1,6 +1,6 @@
 def greet_characters(array)
   array.each do |array|
-    puts "Hello
+    puts "Hello #{array.c}!"
 end
 
 def list_dwarves(array)
